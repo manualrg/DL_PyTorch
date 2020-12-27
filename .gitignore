@@ -1,0 +1,22 @@
+.ipynb_checkpoints/Part 1 - Tensors in PyTorch-checkpoint.ipynb
+.ipynb_checkpoints/Part 2 - Neural Networks in PyTorch-checkpoint.ipynb
+.ipynb_checkpoints/Part 3 - Training Neural Networks-checkpoint.ipynb
+.ipynb_checkpoints/Part 4 - Fashion-MNIST Exercise-checkpoint.ipynb
+.ipynb_checkpoints/Part 5 - Inference and Validation-checkpoint.ipynb
+.ipynb_checkpoints/Part 6 - Saving and Loading Models-checkpoint.ipynb
+.ipynb_checkpoints/Part 7 - Loading Image Data-checkpoint.ipynb
+.ipynb_checkpoints/Part 8 - Transfer Learning-checkpoint.ipynb
+__pycache__/fc_model.cpython-36.pyc
+__pycache__/helper.cpython-36.pyc
+F_MNIST_data/processed/test.pt
+F_MNIST_data/processed/training.pt
+F_MNIST_data/raw/t10k-images-idx3-ubyte
+F_MNIST_data/raw/t10k-labels-idx1-ubyte
+F_MNIST_data/raw/train-images-idx3-ubyte
+F_MNIST_data/raw/train-labels-idx1-ubyte
+MNIST_data/processed/test.pt
+MNIST_data/processed/training.pt
+MNIST_data/raw/t10k-images-idx3-ubyte
+MNIST_data/raw/t10k-labels-idx1-ubyte
+MNIST_data/raw/train-images-idx3-ubyte
+MNIST_data/raw/train-labels-idx1-ubyte
